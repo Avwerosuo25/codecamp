@@ -80,9 +80,9 @@ DATABASES = {
         #'NAME': BASE_DIR / 'db.sqlite3',
         'NAME': 'portfoliodb',
         'USER': 'postgres',
-        'PASSWORD': 'udemy',
-        'HOST': 'localhost',
-        'PORT': '5432',
+        'PASSWORD': 'udemy
+        'HOST': 'Avwes
+        'PORT': '0000
     }
 }
 
